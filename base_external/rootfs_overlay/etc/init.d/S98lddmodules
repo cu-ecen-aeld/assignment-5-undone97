@@ -1,0 +1,6 @@
+#! /bin/sh
+echo "##########################WTF#########################"
+modpath=/lib/modules/$(uname -r)/extra
+mode="664"
+group="staff"
+exit 0
